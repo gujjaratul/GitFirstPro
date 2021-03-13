@@ -1,0 +1,2 @@
+alert(menubar)
+alert(menubar)

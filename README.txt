@@ -5,4 +5,9 @@ line 3 changes
 =======
 one more task of CSS
 >>>>>>> css-assignments
+<<<<<<< HEAD
 One More Change regarding javascript
+=======
+ Another Task 
+JavaScript
+>>>>>>> js-assignments
