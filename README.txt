@@ -5,3 +5,5 @@ line 3 changes
 =======
 one more task of CSS
 >>>>>>> css-assignments
+ Another Task 
+JavaScript
